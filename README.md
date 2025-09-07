@@ -35,9 +35,6 @@ Me interesa crecer en roles de **SOC Analyst, Blue Team y Ciberseguridad en Infr
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
- 
-
----
 
 ## 📊 Estadísticas de GitHub
 ![Tus stats](https://github-readme-stats.vercel.app/api?username=jguari04&show_icons=true&theme=radical)  
