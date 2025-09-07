@@ -42,6 +42,6 @@ Me interesa crecer en roles de **SOC Analyst, Blue Team y Ciberseguridad en Infr
 ---
 
 ## 📫 Contacto
-- 🌐 [LinkedIn](www.linkedin.com/in/jose-luis-alberto-guari-9b01b01b0)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/jose-luis-alberto-guari-9b01b01b0)  
 - ✉️ **TU-EMAIL**  
 - 🚀 Disponible para roles **SOC Analyst remoto (part-time/turnos)**  
