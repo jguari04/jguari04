@@ -35,10 +35,7 @@ Me interesa crecer en roles de **SOC Analyst, Blue Team y Ciberseguridad en Infr
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
-
-## 📂 Proyectos Destacados
-- [🔒 **Lab-Ciberseguridad**](https://github.com/jguari04/lab-ciberseguridad) – Documentación de mi laboratorio con Proxmox y Security Onion.  
-- [🛡️ **Scripts-Seguridad**](https://github.com/jguari04/scripts-seguridad) – Scripts en Bash y Python para hardening y automatización.  
+ 
 
 ---
 
