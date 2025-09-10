@@ -10,8 +10,7 @@ Me interesa crecer en roles de **SOC Analyst, Blue Team y Ciberseguridad en Infr
 
 ## 🚀 Actualmente
 - 🌱 Aprendiendo sobre **SIEM, IDS/IPS y respuesta a incidentes**  
-- 🔭 Trabajando en mi laboratorio personal en **Proxmox VE**  
-- 🤝 Buscando colaborar en proyectos de **seguridad open source**  
+- 🔭 Trabajando en mi laboratorio personal en **Proxmox VE**   
 
 ---
 
