@@ -24,8 +24,9 @@ Me interesa crecer en roles de **SOC Analyst, Blue Team y Ciberseguridad en Infr
 
 ### ☁️ Infraestructura
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-2E3A59?style=for-the-badge&logo=pfsense&logoColor=white)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-231F20?style=for-the-badge&logo=tailscale&logoColor=white)
+
 
 ### 💻 Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
