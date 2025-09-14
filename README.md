@@ -18,9 +18,11 @@ Me interesa crecer en roles de **SOC Analyst, Blue Team y Ciberseguridad en Infr
 
 ### 🔐 Seguridad
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Security Onion](https://img.shields.io/badge/Security_Onion-0E83CD?style=for-the-badge)
+![Wazuh](https://img.shields.io/badge/Wazuh-0050C5?style=for-the-badge&logo=wazuh&logoColor=white)
+![QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![OSSIM](https://img.shields.io/badge/OSSIM-73BA25?style=for-the-badge)
 
 ### ☁️ Infraestructura
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
