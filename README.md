@@ -17,7 +17,7 @@ Me especializo en monitoreo, correlación y análisis de eventos para roles de *
 
 ## 🛠️ Tecnologías y Herramientas
 
-### 🔐 Seguridad & Blue Team
+### 🔐 Seguridad
 ![QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-0050C5?style=for-the-badge&logo=wazuh&logoColor=white)
 ![OSSIM](https://img.shields.io/badge/OSSIM-73BA25?style=for-the-badge)
