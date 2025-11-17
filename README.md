@@ -62,7 +62,13 @@ Me especializo en monitoreo, correlación y análisis de eventos para roles de *
 ---
 
 ## 📫 Contacto
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jose-luis-alberto-guari-9b01b01b0)  
-- ✉️ **TU-EMAIL**  
+
+- 🌐 **LinkedIn:** [Perfil Profesional](https://www.linkedin.com/in/jose-luis-alberto-guari-9b01b01b0)
+- ✉️ **Correo:** tu-correo@ejemplo.com
+- 🛰 **Disponibilidad:** Abierto a roles **SOC Analyst / Blue Team** (remoto · part-time · turnos)
+- 🌎 **Ubicación:** Argentina (disponible para empresas internacionales)
+
+
+  
 - 🚀 Disponible para roles **SOC Analyst remoto (part-time / turnos)**  
 
