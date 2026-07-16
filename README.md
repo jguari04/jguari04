@@ -2,7 +2,7 @@
 
 🎯 **SOC Analyst | Estudiante de Análisis de Sistemas | Estudiante de Licenciatura en Ciberdefensa**  
 
-Actualmente me desempeño en un Centro de Operaciones de Seguridad (SOC) mientras continúo mi formación en Análisis de Sistemas y Ciberdefensa. Mantengo un laboratorio personal donde documento implementaciones, pruebas y automatizaciones para seguir desarrollando habilidades técnicas en Blue Team, monitoreo de seguridad y respuesta a incidentes.
+Actualmente me desempeño en un Centro de Operaciones de Seguridad (SOC) mientras continúo mi formación en Análisis de Sistemas y Ciberdefensa. Paralelamente desarrollo un laboratorio personal de ciberseguridad donde implemento, documento y pruebo diferentes tecnologías para fortalecer mis conocimientos en Blue Team, monitoreo de seguridad y respuesta a incidentes.
 
 ---
 
