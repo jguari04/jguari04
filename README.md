@@ -2,9 +2,7 @@
 
 🎯 **SOC Analyst | Estudiante de Análisis de Sistemas | Estudiante de Licenciatura en Ciberdefensa**  
 
-Apasionado por la **ciberdefensa, la virtualización y la detección/respuesta a incidentes**.  
-Actualmente construyo un **Laboratorio de Ciberseguridad** con Proxmox, pfSense, Security Onion, Wazuh y Nextcloud.  
-Me especializo en monitoreo, correlación y análisis de eventos para roles de **SOC Analyst**, **Blue Team** y **Seguridad en Infraestructuras Críticas**.
+Actualmente me desempeño en un Centro de Operaciones de Seguridad (SOC) mientras continúo mi formación en Análisis de Sistemas y Ciberdefensa. Mantengo un laboratorio personal donde documento implementaciones, pruebas y automatizaciones para seguir desarrollando habilidades técnicas en Blue Team, monitoreo de seguridad y respuesta a incidentes.
 
 ---
 
