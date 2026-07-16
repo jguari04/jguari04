@@ -1,72 +1,71 @@
-# 👨‍💻 Hi, I'm Jose Luis Guari  
+# 👨‍💻 Hi, I'm Jose Luis Guari
 
-🎯 **SOC Analyst | Estudiante de Análisis de Sistemas | Estudiante de Licenciatura en Ciberdefensa**  
+## 🎯 SOC Analyst | Estudiante de Análisis de Sistemas | Estudiante de Licenciatura en Ciberdefensa
 
-Actualmente me desempeño en un Centro de Operaciones de Seguridad (SOC) mientras continúo mi formación en Análisis de Sistemas y Ciberdefensa. Paralelamente desarrollo un laboratorio personal de ciberseguridad donde implemento, documento y pruebo diferentes tecnologías para fortalecer mis conocimientos en Blue Team, monitoreo de seguridad y respuesta a incidentes.
+Actualmente me desempeño en un Centro de Operaciones de Seguridad (SOC) mientras continúo mi formación en Análisis de Sistemas y Ciberdefensa.
 
----
-
-## 🚀 Actualmente
-- 📘 Aprendiendo y practicando **SIEM, IDS/IPS, forensia básica y respuesta a incidentes (IR)**  
-- 🛡️ Fortaleciendo mis skills en **detección, análisis de alertas y amenazas**  
-- 🔧 Mejorando el despliegue y automatización de mi laboratorio en **Proxmox VE**  
+Paralelamente desarrollo un laboratorio personal de ciberseguridad donde implemento, documento y pruebo diferentes tecnologías para fortalecer mis conocimientos en Blue Team, monitoreo de seguridad, detección de amenazas y respuesta a incidentes.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+# 🚀 Actualmente
+
+- 📘 Profundizando conocimientos en SIEM, IDS/IPS, forensia básica y respuesta a incidentes (Incident Response).
+- 🛡️ Fortaleciendo mis conocimientos en detección de amenazas, análisis y correlación de eventos de seguridad.
+- 🔧 Mejorando continuamente mi laboratorio de ciberseguridad basado en Proxmox VE mediante documentación, automatización y nuevas implementaciones.
 
 ---
 
-### 🔎 Monitoreo, Detección y Respuesta (SOC / SIEM)
-<p>
-  <img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wazuh-0050C5?style=for-the-badge&logo=wazuh&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OSSIM-73BA25?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Security_Onion-0E83CD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MISP-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MITRE_Defender-1E90FF?style=for-the-badge"/>
-</p>
+# 💼 Áreas de interés
+
+- 🛡️ Security Operations Center (SOC)
+- 🔎 Monitoreo y correlación de eventos
+- 🚨 Detección y análisis de alertas de seguridad
+- 🔵 Blue Team
+- 📋 Incident Response
+- 🐧 Administración y Hardening de Linux
+- 🐍 Automatización con Python y Bash
+- 🖥️ Virtualización con Proxmox VE
 
 ---
 
-### 🔬 Investigación Digital y Análisis  
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-</p>
+# 🛠️ Tecnologías y Herramientas
+
+## 🔎 Monitoreo, Detección y Respuesta (SOC / SIEM)
+
+<!-- Badges -->
+
+## 🔬 Investigación Digital y Análisis
+
+<!-- Badges -->
+
+## 🏗️ Infraestructura y Virtualización
+
+<!-- Badges -->
+
+## 💻 Programación y Automatización
+
+<!-- Badges -->
 
 ---
 
-### 🏗 Infraestructura y Virtualización  
-<p>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pfSense-2E3A59?style=for-the-badge&logo=pfsense&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailscale-231F20?style=for-the-badge&logo=tailscale&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+# 📂 Proyectos Destacados
+
+- 🛡️ Laboratorio de Ciberseguridad (en desarrollo)
+- 📊 Implementación y configuración de Wazuh SIEM
+- 🐧 Administración y Hardening de Linux
+- 🐍 Automatizaciones con Python y Bash
+- 📖 Documentación técnica y laboratorios prácticos
 
 ---
 
-### 💻 Programación y Automatización  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-</p>
+# 📫 Contacto
 
+🌐 **LinkedIn:** José Luis Guari
 
----
+✉️ **Correo:** jluguari12@gmail.com
 
-## 📫 Contacto
+🌎 **Ubicación:** Argentina
 
-- 🌐 **LinkedIn:** [jose luis guari](https://www.linkedin.com/in/jose-luis-alberto-guari-9b01b01b0)
-- ✉️ **Correo:** jluguari12@gmail.com
-- 🛰 **Disponibilidad:** Abierto a roles **SOC Analyst / Blue Team** (remoto · part-time · turnos)
-- 🌎 **Ubicación:** Argentina (disponible para empresas internacionales)
-
-
-  
-- 🚀 Disponible para roles **SOC Analyst remoto (part-time / turnos)**  
+🛰️ **Disponible para oportunidades como SOC Analyst / Cybersecurity Analyst (Remoto · Híbrido · Presencial).**
 
