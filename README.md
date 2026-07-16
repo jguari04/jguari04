@@ -1,6 +1,6 @@
 # 👨‍💻 Hi, I'm Jose Luis Guari  
 
-🎯 **Especialista en Ciberseguridad | Técnico en Soporte IT | Estudiante de Licenciatura en Ciberdefensa**  
+🎯 **SOC Analyst | Estudiante de Análisis de Sistemas | Estudiante de Licenciatura en Ciberdefensa**  
 
 Apasionado por la **ciberdefensa, la virtualización y la detección/respuesta a incidentes**.  
 Actualmente construyo un **Laboratorio de Ciberseguridad** con Proxmox, pfSense, Security Onion, Wazuh y Nextcloud.  
